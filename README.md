@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @LimoDerEchte
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on coding
-- 📫 You can reach me on Discord: @.limo.
 
-<!---
-LimoDerEchte/LimoDerEchte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">  
+  <a href="https://github.com/zanexGHG">
+    <img alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com?user=LimoDerEchte&theme=transparent&hide_border=true&border_radius=0"/>
+  </a>
+</p>
